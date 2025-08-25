@@ -244,7 +244,8 @@ function HearingSimulator() {
             {/* <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" /> */}
             {/* <source src="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" type="video/mp4" /> */}
             {/* <source src="https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4" type="video/mp4" /> */}
-            <source src="/assets/video-display.mp4" type="video/mp4" />
+            <source src="/assets/video-display-2.mp4" type="video/mp4" />
+            {/* <source src="https://www.dropbox.com/scl/fi/pr0ajmjprlmgaun154bej/Changing-The-Way-We-Talk-About-Disability-_-Amy-Oulton-_-TEDxBrighton.mp4?rlkey=xvjd1x4xug5a3z017dt10kybg&st=tvnvps7k&dl=0" type="video/mp4" /> */}
             Video tidak dapat dimuat. Silakan upload video lokal.
           </video>
 
